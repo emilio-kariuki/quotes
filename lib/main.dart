@@ -39,7 +39,7 @@ class _HomeState extends State<Home> {
       backgroundColor: Colors.blueGrey,
       appBar: AppBar(
         title: Text(
-          "Quotess",
+          "Quotes",
           style: TextStyle(
             fontSize: 30.0,
             color: Colors.grey[200],
